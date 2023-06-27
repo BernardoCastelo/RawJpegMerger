@@ -1,0 +1,15 @@
+C:\Repos\RawJpegMerger\RawJpegMerger\bin\Debug\net6.0\RawJpegMerger.exe
+C:\Repos\RawJpegMerger\RawJpegMerger\bin\Debug\net6.0\RawJpegMerger.deps.json
+C:\Repos\RawJpegMerger\RawJpegMerger\bin\Debug\net6.0\RawJpegMerger.runtimeconfig.json
+C:\Repos\RawJpegMerger\RawJpegMerger\bin\Debug\net6.0\RawJpegMerger.dll
+C:\Repos\RawJpegMerger\RawJpegMerger\bin\Debug\net6.0\RawJpegMerger.pdb
+C:\Repos\RawJpegMerger\RawJpegMerger\obj\Debug\net6.0\RawJpegMerger.csproj.AssemblyReference.cache
+C:\Repos\RawJpegMerger\RawJpegMerger\obj\Debug\net6.0\RawJpegMerger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\RawJpegMerger\RawJpegMerger\obj\Debug\net6.0\RawJpegMerger.AssemblyInfoInputs.cache
+C:\Repos\RawJpegMerger\RawJpegMerger\obj\Debug\net6.0\RawJpegMerger.AssemblyInfo.cs
+C:\Repos\RawJpegMerger\RawJpegMerger\obj\Debug\net6.0\RawJpegMerger.csproj.CoreCompileInputs.cache
+C:\Repos\RawJpegMerger\RawJpegMerger\obj\Debug\net6.0\RawJpegMerger.dll
+C:\Repos\RawJpegMerger\RawJpegMerger\obj\Debug\net6.0\refint\RawJpegMerger.dll
+C:\Repos\RawJpegMerger\RawJpegMerger\obj\Debug\net6.0\RawJpegMerger.pdb
+C:\Repos\RawJpegMerger\RawJpegMerger\obj\Debug\net6.0\RawJpegMerger.genruntimeconfig.cache
+C:\Repos\RawJpegMerger\RawJpegMerger\obj\Debug\net6.0\ref\RawJpegMerger.dll
